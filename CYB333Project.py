@@ -3,7 +3,7 @@ import string
 import hashlib
 from getpass import getpass
 
-USER_DETAILS_FILEPATH = "C:\Users.txt"
+USER_DETAILS_FILEPATH = "Users.txt"
 
 PUNCTUATIONS = "@#%!&$"
 
